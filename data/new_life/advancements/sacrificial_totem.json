@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "craft-totem": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:totem_of_undying"
+                        ],
+                        "count": 1
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "new_life:craft_sacrificial_totem"
+    }
+}

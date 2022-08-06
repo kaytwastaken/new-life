@@ -1,0 +1,28 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "RBR",
+        "IEI",
+        " S "
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:redstone_block"
+        },
+        "B": {
+            "item": "minecraft:gold_block"
+        },
+        "I": {
+            "item": "minecraft:gold_ingot"
+        },
+        "E": {
+            "item": "minecraft:ender_pearl"
+        },
+        "S": {
+            "item": "minecraft:golden_sword"
+        }
+    },
+    "result": {
+        "item": "minecraft:totem_of_undying"
+    }
+}

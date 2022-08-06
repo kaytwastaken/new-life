@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:written_book"
+        },
+        "frame": "task",
+        "title": "Tomb Raider",
+        "description": "Acquire the Ancient Spellbook",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "new_life:root",
+    "criteria": {
+        "get-spellbook": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:written_book"
+                        ],
+                        "nbt": "{tag: [spellbook]}",
+                        "count": 1
+                    }
+                ]
+            }
+        }
+    }
+}

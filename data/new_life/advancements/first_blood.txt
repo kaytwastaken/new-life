@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:tipped_arrow",
+            "nbt": "{Potion: 'minecraft:harming'}"
+        },
+        "title": "First Blood",
+        "description": "Be the first to kill another player",
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "new_life:kill_player",
+    "criteria": {
+        "sacrifice": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

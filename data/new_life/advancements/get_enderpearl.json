@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "collect-pearl": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:ender_pearl"
+                        ],
+                        "count": 1
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": ["new_life:sacrificial_totem"]
+    }
+}

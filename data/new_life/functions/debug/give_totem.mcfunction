@@ -1,0 +1,1 @@
+give @p shulker_shell{ CustomModelData: 666, Tags: [sacrificial_totem], display: { Name: '[{ "text": "Sacrificial Totem", "italic": false, "color": "gold" }]', Lore: ['[{"text": "Used to gain new lives.", "italic": true }]', '[{"text": "Requires extensive experience...", "italic": true }]'] } } 1

@@ -1,0 +1,1 @@
+tellraw @a "ah well i guess itd be a fair shout that there's not gonna be much proper debugging in here"

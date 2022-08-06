@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:shulker_shell",
+            "nbt": "{CustomModelData: 666}"
+        },
+        "title": "Premortal",
+        "description": "Grant yourself a new life with a Sacrificial Totem",
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "new_life:get_spellbook",
+    "criteria": {
+        "sacrifice": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "experience": 10   
+    }
+}
