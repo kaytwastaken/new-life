@@ -43,4 +43,18 @@ As New Life is meant to be played in a small world border with more focus on PVP
 #### Bedrock
 ![](https://mc.kayt.dev/static/images/bedrock.png)
 
-This bedrock texture is taken from the Vanilla Tweaks alternate bedrock option. I chose to include it because bedrock makes a good block for constructing an unbreakable altar on a server.
+This bedrock texture is taken from the [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/) alternate bedrock option. I chose to include it because bedrock makes a good block for constructing an unbreakable altar on a server.
+
+### Advancements
+
+Taste for Death - Kill another player
+
+Fatality - Kill a red player while on your last life
+
+Tomb Raider - Acquire the Ancient Spellbook
+
+Premortal - Grant yourself a new life with a Sacrifical Totem
+
+Collector's Edition - Reach at least five lives using Sacrifical Totems
+
+Sharing is Caring - Give away one of your lives using the Spellbook
