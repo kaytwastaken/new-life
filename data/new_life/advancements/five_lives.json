@@ -1,11 +1,10 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:enchanted_book",
-            "nbt": "{CustomModelData: 666, Enchantments: [{ }] }"
+            "item": "minecraft:shulker_box"
         },
         "title": "Collector's Edition",
-        "description": "Reach at least four lives using Sacrifical Totems",
+        "description": "Reach at least five lives using Sacrifical Totems",
         "frame": "challenge",
         "show_toast": true,
         "announce_to_chat": true,
