@@ -4,7 +4,11 @@ Datapack for the New Life multiplayer gamemode by Kayt_was_taken
 Read more at [https://mc.kayt.dev/datapacks/new-life](https://mc.kayt.dev/datapacks/new-life)
 
 ## Configuring Variables
-Currently, the only way to configure the starting variables (such as where the altar is for gaining lives) is to edit the `data/new-life/functions/sacrifice.mcfunction` file. In the future a command will be used to edit this in game.
+To center the world border on the player, configure lives, clear advancements, and center the altar on the player run `/function new_life:game/setup`.
+
+To only move the altar tun `/function new_life:game/set_altar`.
+
+Following setup, `/function new_life:game/start` can be used to expand the world border
 
 ## Features
 

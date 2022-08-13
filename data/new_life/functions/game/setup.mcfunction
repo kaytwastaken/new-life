@@ -13,3 +13,5 @@ execute at @s run worldborder center ~ ~
 execute at @s run worldborder set 50
 
 function new_life:game/set_altar
+
+tellraw @a "Advancements revoked, lives reset, world border centered, altar created... Ready to go!"
