@@ -1,7 +1,5 @@
 # New Life
-Datapack for the New Life multiplayer gamemode by Kayt_was_taken
-
-Read more at [https://mc.kayt.dev/datapacks/new-life](https://mc.kayt.dev/datapacks/new-life)
+Datapack for the New Life multiplayer gamemode
 
 ## Configuring Variables
 To center the world border on the player, configure lives, clear advancements, and center the altar on the player run `/function new_life:game/setup`.
@@ -38,16 +36,6 @@ Because of the current crafting system, naturally acquired Totems of Undying wil
 #### Enchanting Table
 
 As New Life is meant to be played in a small world border with more focus on PVP rather than resource-gathering, the default enchanting table recipe has been removed. Instead, it's common to place an enchanting table in a specific location (e.g. an ancient city).
-
-### Custom Textures
-
-#### Sacrifical Totem
-![](https://mc.kayt.dev/static/images/sacrificial_totem.png)
-
-#### Bedrock
-![](https://mc.kayt.dev/static/images/bedrock.png)
-
-This bedrock texture is taken from the [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/) alternate bedrock option. I chose to include it because bedrock makes a good block for constructing an unbreakable altar on a server.
 
 ### Advancements
 
